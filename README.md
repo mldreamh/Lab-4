@@ -13,7 +13,7 @@ ____
 **Программа может быть запущена в любой IDE для Python или через командную строку**
 тест 128
 ![Иллюстрация к проекту](https://github.com/mldreamh/-/blob/main/128.jpg)
-тест 1001
-![Иллюстрация к проекту](https://github.com/mldreamh/-/blob/main/1011.jpg)
+тест 1003
+![Иллюстрация к проекту](https://github.com/mldreamh/-/blob/main/1003.jpg)
 тест 256501
 ![Иллюстрация к проекту](https://github.com/mldreamh/-/blob/main/256501.jpg)
