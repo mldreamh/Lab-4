@@ -14,12 +14,7 @@ ___
 - такси для сотрудника №1, 2, 3 ... n
 - итоговая сумма(число)
 - итоговая сумма(текст)
-# Тесты
-**Тест 1:** 3 - 20 40 60 - 30 10 20 
-___
-![](https://github.com/I-D-S/Taxi/blob/main/images/3.png)
-___
-**Тест 2:** 5 - 5 10 1 15 15 - 3 3 3 2 3
-___
-![](https://github.com/I-D-S/Taxi/blob/main/images/5.png)
 
+![1](https://user-images.githubusercontent.com/113675455/193576619-14c6b51a-f538-4b14-8180-a3c348367f49.png)
+
+![2](https://user-images.githubusercontent.com/113675455/193576647-3a329638-2e45-4e9e-8485-b40cbbb8e06b.png)
